@@ -16,8 +16,6 @@ start time: trust AI ,didn't switch to panel, end time: not enough trust, switch
 🧐
 
 
-
-
 we apply `import imageio.v2 as imageio` here, a good snippet are 
 
 ```
@@ -29,14 +27,5 @@ def generate_animation(path, num):
     imageio.mimsave(path + '_generate_animation.gif', images, fps=2)
 ```
 
-
-
-*text*
-
-
-**text**
-
-
-__text__
 
 
