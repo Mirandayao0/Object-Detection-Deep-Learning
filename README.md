@@ -1,5 +1,5 @@
-# Research
-how long do the eye track changes need to impact the trust level?
+# Research 
+How long do the eye track changes need to impact the trust level?
 
 ![heatmap](./_generate_animation.gif)
 [figure link](https://github.com/Mirandayao0/Research/blob/main/_generate_animation.gif)
